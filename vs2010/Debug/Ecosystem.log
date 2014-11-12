@@ -1,0 +1,18 @@
+﻿Build started 11/11/2014 1:19:34 AM.
+     1>Project "C:\Users\wavecom\Desktop\Final Project\sample code\smoke2d\vs2010\Ecosystem.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Ecosystem.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         Ecosystem.vcxproj -> C:\Users\wavecom\Desktop\Final Project\sample code\smoke2d\vs2010\Debug\Ecosystem.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\Ecosystem.unsuccessfulbuild".
+         Touching "Debug\Ecosystem.lastbuildstate".
+     1>Done Building Project "C:\Users\wavecom\Desktop\Final Project\sample code\smoke2d\vs2010\Ecosystem.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09
